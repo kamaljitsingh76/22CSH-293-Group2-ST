@@ -79,8 +79,8 @@ We can also use -u flag to make it as a default, so that no need to origin main 
  
  
 6. Now sync the file with sir’s repo
-Go to GitHub.com to your repository.
+Go to GitHub.com to your repository and press Open Pull Request.
  
+![image](https://github.com/PreetMongaPM/22CSH-293-Group2-ST/assets/131587235/1b785b0f-7485-412f-a321-0d0d72c774d2)
 
-A
 
